@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WK1Telefoonboekje/1.0.0": {
+        "dependencies": {
+          "WK1Telefoonboekje.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WK1Telefoonboekje.dll": {}
+        }
+      },
+      "WK1Telefoonboekje.Domain/1.0.0": {
+        "runtime": {
+          "WK1Telefoonboekje.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WK1Telefoonboekje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WK1Telefoonboekje.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

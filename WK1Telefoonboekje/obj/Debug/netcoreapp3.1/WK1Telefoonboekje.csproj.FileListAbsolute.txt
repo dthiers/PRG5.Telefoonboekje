@@ -1,0 +1,17 @@
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\WK1Telefoonboekje.exe
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\WK1Telefoonboekje.deps.json
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\WK1Telefoonboekje.runtimeconfig.json
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\WK1Telefoonboekje.runtimeconfig.dev.json
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\WK1Telefoonboekje.dll
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\WK1Telefoonboekje.pdb
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\WK1Telefoonboekje.Domain.dll
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\WK1Telefoonboekje.Domain.pdb
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\obj\Debug\netcoreapp3.1\WK1Telefoonboekje.csproj.AssemblyReference.cache
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\obj\Debug\netcoreapp3.1\WK1Telefoonboekje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\obj\Debug\netcoreapp3.1\WK1Telefoonboekje.AssemblyInfoInputs.cache
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\obj\Debug\netcoreapp3.1\WK1Telefoonboekje.AssemblyInfo.cs
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\obj\Debug\netcoreapp3.1\WK1Telefoonboekje.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\obj\Debug\netcoreapp3.1\WK1Telefoonboekje.dll
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\obj\Debug\netcoreapp3.1\WK1Telefoonboekje.pdb
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\obj\Debug\netcoreapp3.1\WK1Telefoonboekje.genruntimeconfig.cache
+C:\Projects\dotnet\WK1Telefoonboekje\WK1Telefoonboekje\bin\Debug\netcoreapp3.1\peopleseed.json
